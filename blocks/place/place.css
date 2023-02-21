@@ -19,7 +19,7 @@
 @media screen and (max-width: 1023px) {
     .place  {
         column-gap: 28px;
-        margin: 73px 24px 0 24px;
+        margin: 72px 24px 0 24px;
         
     }
 } 
@@ -29,6 +29,6 @@
         flex-direction: column;
         grid-template-columns: repeat(1, minmax(min-content, max-content));
         margin: 50px 0 0 0;
-        
+        row-gap: 10vw;
     }
 } 

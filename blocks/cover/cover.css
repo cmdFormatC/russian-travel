@@ -19,3 +19,19 @@
 } 
 
 
+@media screen and (max-width: 1023px) {
+    .cover {
+        width: 100%;
+        margin: 90px 0 0 0;
+    }
+} 
+
+
+
+@media screen and (max-width: 767px) {
+    .cover {
+        margin: 20.625vw 0 0 0;
+    }
+} 
+
+
