@@ -1,6 +1,6 @@
 .cover {
-    width: 92.5vw;
-    height: 57.8125vw;
+    width: 1184px;
+    height: 740px;
     margin: 92px 0 0 0;
     position: relative;
     display: flex;
@@ -33,5 +33,3 @@
         margin: 20.625vw 0 0 0;
     }
 } 
-
-
