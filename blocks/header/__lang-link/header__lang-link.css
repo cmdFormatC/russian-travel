@@ -1,0 +1,21 @@
+.header__lang-link {
+    color: #FFFFFF;
+    line-height: 28px;
+    font-size: 24px;
+    font-weight: normal;
+    align-self: flex-end;
+    
+
+}
+.header__lang-link:nth-child(2) {
+    text-decoration: none;
+    margin-left: 18px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-link {
+        line-height: 1.11;
+        font-size: 5.625vw;
+        margin-bottom: 2.5vw;
+    }
+} 

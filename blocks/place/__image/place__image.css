@@ -1,0 +1,38 @@
+.place__image {
+    width: 460px;
+    height: 460px;
+    margin: 0;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+
+
+@media screen and (max-width: 1279px) {
+    .place__image {
+        width: 440px;
+        height: 440px;
+    }
+} 
+
+
+@media screen and (max-width: 1023px) {
+    .place__image {
+        width: 340px;
+        height: 340px;
+    }
+} 
+
+
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        width: 100vw;
+        height: 100vw;
+        grid-column-start: 1;
+        grid-column-end: 1;
+        grid-row-start: 3;
+        grid-row-end: 3;
+    }
+} 

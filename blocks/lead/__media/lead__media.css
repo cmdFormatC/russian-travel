@@ -1,0 +1,9 @@
+.lead__media {
+    margin: 0 48px 0 48px;
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__media {
+        margin: 0;
+    }
+} 
