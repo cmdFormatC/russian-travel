@@ -11,6 +11,9 @@ https://github.com/cmdFormatC/russian-travel
 * [Ссылка на сайт]
 https://cmdformatc.github.io/russian-travel/
 
+* [на всякий еще нетлифай]
+https://amazing-nasturtium-356a87.netlify.app
+
 Адаптив реализован через относительные величины и медиазапросы.
 Планов по доработке нет
 
