@@ -4,11 +4,10 @@
     font-size: 24px;
     font-weight: normal;
     align-self: flex-end;
-    
+    text-decoration: none;
 
 }
 .header__lang-link:nth-child(2) {
-    text-decoration: none;
     margin-left: 18px;
 }
 

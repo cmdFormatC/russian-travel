@@ -3,6 +3,7 @@
     width: 176px;
     align-self: end;
     justify-self: start;
+    object-fit: scale-down;
 }
 
 
