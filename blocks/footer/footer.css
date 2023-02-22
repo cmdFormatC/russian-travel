@@ -4,6 +4,7 @@
     margin: 92px 48px 0 48px;
     padding-bottom: 24px;
     width: calc(100% - 96px);
+    max-width: 1184px;
 }
 
 
