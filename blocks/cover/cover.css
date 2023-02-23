@@ -1,28 +1,24 @@
-.cover {
-    width: 1184px;
-    margin: 92px 0 0 0;
+.cover { 
+    margin: 92px 0 0 0; 
     display: flex;
 
+
+ 
+} 
+ 
+ 
+
+ 
+@media screen and (max-width: 1023px) { 
+    .cover { 
+        margin: 90px 0 0 0; 
+    } 
+}  
+ 
+ 
+ 
+@media screen and (max-width: 767px) { 
+    .cover { 
+        margin: 20.625vw 0 0 0; 
+    } 
 }
-
-
-@media screen and (max-width: 1279px) {
-    .cover {
-        width: 100%;
-    }
-} 
-
-
-@media screen and (max-width: 1023px) {
-    .cover {
-        margin: 90px 0 0 0;
-    }
-} 
-
-
-
-@media screen and (max-width: 767px) {
-    .cover {
-        margin: 20.625vw 0 0 0;
-    }
-} 

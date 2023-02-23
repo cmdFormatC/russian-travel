@@ -2,7 +2,7 @@
     display: grid;
     gap: 48px 40px;
     grid-template-columns: repeat(2, minmax(min-content, max-content));
-    margin: 80px 48px 0 48px;
+    margin: 80px 0 0 0;
 }
 
 .place:first-child {
@@ -19,7 +19,7 @@
 @media screen and (max-width: 1023px) {
     .place  {
         column-gap: 28px;
-        margin: 72px 24px 0 24px;
+        margin: 72px 0 0 0;
         
     }
 } 
